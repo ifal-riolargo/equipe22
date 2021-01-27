@@ -1,0 +1,3 @@
+Como visitante do site, eu quero ver um menu de fácil navegação e no rodapé eu quero ver informações de contato, localização, direitos reservados, para me ajudar a ganhar confiança na empresa.
+
+Como visitante do site, preciso saber assim que visitar o que é a Javascript, o que ela oferece e por que é importante fazer um curso para que eu não saia imediatamente da página.
